@@ -1,3 +1,9 @@
+"""
+Cet exercice consiste à réaliser une interface graphique qui trace x(t) et y(t) de l’exercice précédent,
+mais cette fois on peut sélectionner si on veut afficher juste x(t) ou y(t) ou bien les 2.
+
+"""
+
 import tkinter
 
 from matplotlib.backends.backend_tkagg import (
